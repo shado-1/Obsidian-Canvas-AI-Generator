@@ -1,6 +1,3 @@
-Aqui está o modelo de um arquivo `README.md` para o código fornecido:
-
-```markdown
 # Obsidian Canvas Generator
 
 Este é um gerador de Canvas para o Obsidian, desenvolvido em Python utilizando Streamlit, para criar arquivos `.canvas` a partir de textos fornecidos pelo usuário. Ele integra a API do Gemini para gerar conteúdo estruturado em formato JSON, que pode ser utilizado diretamente no Obsidian.
@@ -26,8 +23,8 @@ Este é um gerador de Canvas para o Obsidian, desenvolvido em Python utilizando 
 Primeiro, clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <DIRETORIO_DO_REPOSITORIO>
+git clone https://github.com/Peterson047/Obsidian-Canvas-AI-Generator.git
+cd Obsidian-Canvas-AI-Generator
 ```
 
 Instale as dependências:
@@ -104,6 +101,3 @@ Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE](L
 ---
 
 Se você tiver problemas ou sugestões, abra uma issue ou envie um pull request!
-```
-
-Este `README.md` fornece um guia completo sobre como configurar e usar o gerador de canvas para o Obsidian.
